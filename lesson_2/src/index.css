@@ -11,15 +11,3 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
-body {
-  font-family: 'Segoe UI', Arial, sans-serif;
-  margin: 0;
-  color: #181818;
-  background: #fff;
-}
-
-.container {
-  width: 92%;
-  max-width: 1200px;
-  margin: 0 auto;
-}
